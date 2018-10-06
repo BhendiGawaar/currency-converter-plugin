@@ -10,10 +10,11 @@ for Firefox:
     -Select the ‘manifest.json’ from the file select dialog
 
 for Chrome:
+
     -Type ‘chrome://extensions’ in the address bar
     -Check ‘developer mode’, to enable loading unpacked extension
     -Click ‘Load unpacked extension’ button.
     -Select the complete folder from the file select dialog.
     
-![Currency converter](https://github.com/BhendiGawaar/currency-converter-plugin/gc.png)    
+![Currency converter](https://github.com/BhendiGawaar/currency-converter-plugin/blob/master/gc.png)    
 
